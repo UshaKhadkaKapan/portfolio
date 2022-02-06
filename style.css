@@ -35,7 +35,7 @@ html{
 .text-primary{
     color: blueviolet !important ;
 }
-img{
+#img{
     border-radius: 50%;
 }
 .project{
@@ -69,6 +69,6 @@ footer{
     height:50px;
     background: white;
     color:black;
-    font-style:3rem;
+    font-size:2rem;
     border:black solid 1px;
 }
